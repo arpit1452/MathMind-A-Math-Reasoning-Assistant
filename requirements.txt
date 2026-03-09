@@ -1,0 +1,9 @@
+langchain
+python-dotenv
+langchain-community
+langchain-core
+langchain-groq
+streamlit
+numexpr
+wikipedia
+langchain-experimental
