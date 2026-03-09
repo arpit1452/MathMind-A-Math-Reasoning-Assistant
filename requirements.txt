@@ -1,4 +1,4 @@
-langchain
+langchain==0.2.16
 python-dotenv
 langchain-community
 langchain-core
@@ -7,3 +7,4 @@ streamlit
 numexpr
 wikipedia
 langchain-experimental
+
