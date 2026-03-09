@@ -6,3 +6,4 @@ langchain-groq
 streamlit
 numexpr
 wikipedia
+langchain-experimental
