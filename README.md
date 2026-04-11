@@ -44,7 +44,7 @@ Final Answer Generation
 │
 ▼
 Streamlit Chat Output
-
+'''
 # Running the Application
 - Start the streamlit app
 - Live Demo --(https://mathmind-a-math-reasoning-assistant-gpcqkcul7excuenx9dkkbi.streamlit.app/)
