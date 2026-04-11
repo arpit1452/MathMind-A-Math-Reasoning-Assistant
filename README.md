@@ -22,7 +22,8 @@ Example queries the assistant can solve:
 # System Architecture
 MathMind uses a Tool-Augmented LLM Architecture where the language model performs reasoning and delegates computations to tools.
 
-''' User
+```
+User
 │
 ▼
 Streamlit Chat Interface
@@ -44,7 +45,7 @@ Final Answer Generation
 │
 ▼
 Streamlit Chat Output
-'''
+```
 # Running the Application
 - Start the streamlit app
 - Live Demo --(https://mathmind-a-math-reasoning-assistant-gpcqkcul7excuenx9dkkbi.streamlit.app/)
