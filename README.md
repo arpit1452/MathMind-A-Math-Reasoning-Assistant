@@ -1,4 +1,4 @@
-# MathMind-A-Math-Reasoning-Assistant
+# MathMind-A Math Reasoning AI Assistant
 MathMind is an AI-powered mathematical reasoning assistant that solves math problems expressed in natural language.
 The system combines Groq LLaMA (LLM) with LangChain agents and tool-based computation to interpret questions and produce accurate solutions.
 The application provides an interactive chat interface built with Streamlit, enabling users to ask mathematical questions conversationally.
